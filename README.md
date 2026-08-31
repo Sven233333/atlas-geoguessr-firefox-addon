@@ -1,4 +1,29 @@
-# ATLAS for Firefox
+# GeoGuessr Firefox Addon: the ATLAS Cheat Sidebar
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr Firefox addon logo" width="110" />
+</p>
+
+<p align="center">
+  <b>A GeoGuessr cheat sidebar for Firefox, from Firefox Add-ons.</b><br/>
+  Country, region and coordinates while the round is open, and the pin placed for you. Seven rounds free, no account.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr Firefox addon" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-firefox-addon?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/geoguesser-cheats-hack/"><img alt="Install the ATLAS addon from Firefox Add-ons" src="https://img.shields.io/badge/Firefox%20Add--ons-Install-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Firefox questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Requires Firefox 128 or newer" src="https://img.shields.io/badge/Firefox-128%2B-FF7139?style=for-the-badge">
+  <img alt="Arrived in version 1.7" src="https://img.shields.io/badge/since-v1.7-FF6600?style=for-the-badge">
+  <img alt="Seven free rounds" src="https://img.shields.io/badge/free-7%20rounds-2ecc71?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension">Chrome version</a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-macos">On a Mac</a> &middot;
+  <a href="https://geoguessrcheats.com/plans">Plans</a>
+</p>
 
 The ATLAS sidebar, published on Firefox Add-ons, for Firefox 128 and newer.
 

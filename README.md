@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr Firefox addon" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-firefox-addon?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/geoguesser-cheats-hack/"><img alt="Install the ATLAS addon from Firefox Add-ons" src="https://img.shields.io/badge/Firefox%20Add--ons-Install-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Firefox questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/K63r-8UcvPc"><img alt="See the ATLAS GeoGuessr cheat run on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Requires Firefox 128 or newer" src="https://img.shields.io/badge/Firefox-128%2B-FF7139?style=for-the-badge">
   <img alt="Arrived in version 1.7" src="https://img.shields.io/badge/since-v1.7-FF6600?style=for-the-badge">
   <img alt="Seven free rounds" src="https://img.shields.io/badge/free-7%20rounds-2ecc71?style=for-the-badge">

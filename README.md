@@ -36,6 +36,12 @@ no account.
 
 Get it: **[addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/geoguesser-cheats-hack/)**
 
+## Guides on the site
+
+- [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [WorldGuessr cheat](https://geoguessrcheats.com/worldguessr-cheat)
+
 ---
 
 ## New in v1.7

@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension">Chrome version</a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-macos">On a Mac</a> &middot;
   <a href="https://geoguessrcheats.com/plans">Plans</a>
@@ -38,9 +38,9 @@ Get it: **[addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/ge
 
 ## Guides on the site
 
+- [WorldGuessr cheat](https://geoguessrcheats.com/worldguessr-cheat)
 - [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
 - [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
-- [WorldGuessr cheat](https://geoguessrcheats.com/worldguessr-cheat)
 
 ---
 
@@ -50,6 +50,11 @@ Firefox users spent a long time being told to open Chrome. That ended with the
 v1.7 release in August 2026, when the add-on went live on Firefox Add-ons. It is
 the same build people already knew from the other browser, and the same key
 unlocks it.
+
+The version on Firefox Add-ons today is 1.7.1. It brought the redrawn sidebar in
+a light and a dark look, a Profile tab that reads your own GeoGuessr stats from
+your session, and History per game. When the free rounds are spent, the sidebar
+now lays out the choice between more free rounds and a key on one screen.
 
 ## Identical to the Chrome version
 
@@ -102,8 +107,10 @@ Yes. It is the same prediction on the same picture. The browser has nothing to d
 with the answer, only with what happens after it.
 
 **Will the guess button arrive in Firefox?**
-It is the obvious next thing for this add-on. Release notes appear at
-[geoguessrcheats.com/blog](https://geoguessrcheats.com/blog).
+Not in 1.7.1, where the switch is greyed out with a note that says so. If that
+changes, the release notes at
+[geoguessrcheats.com/changelog](https://geoguessrcheats.com/changelog) will say
+it first.
 
 **Is there a Firefox version of the unattended bot?**
 No, and there will not be one. Playing whole sessions on its own is a desktop job:
@@ -115,7 +122,7 @@ have open.
 
 ## Elsewhere
 
-- Everything in one place: [Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot)
+- Everything in one place: [geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats)
 - Platform comparison: <https://geoguessrcheats.com/platforms>
 - Prices: <https://geoguessrcheats.com/plans>
 
